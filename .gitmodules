@@ -1,0 +1,3 @@
+[submodule "/home/brice/.tmux/plugins/tpm"]
+	path = /home/brice/.tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
