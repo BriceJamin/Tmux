@@ -1,4 +1,2 @@
-plugins/tmux-resurrect/
-plugins/tmux-continuum/
-plugins/tmux-pain-control/
+plugins/*
 resurrect/*
